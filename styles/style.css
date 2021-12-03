@@ -1,0 +1,15 @@
+@import url(banner.css);
+@import url(buttons.css);
+@import url(cards.css);
+@import url(footer.css);
+@import url(cardsbis.css);
+@import url(navbar.css);
+@import url(btn.css);
+@import url(banner2.css);
+@import url(actualite.css);
+@import url(agence.css);
+
+body {
+	margin:0 ;
+}
+

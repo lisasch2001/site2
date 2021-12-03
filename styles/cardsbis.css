@@ -1,0 +1,35 @@
+.cardbis {
+	padding:  16px;
+	width: 300px;
+	text-align: center ;
+	border-radius: 6px;
+	box-shadow: #00000052 0px 4px 2px;
+	margin-bottom: 8px;
+	justify-self: center;
+}
+
+.card img {
+	width: 250px;
+}
+
+.cardsbis {
+	display:  grid;
+	grid-template-columns: 1fr;
+	grid-gap: 16px;
+	margin: 48px 0px;
+	
+}
+
+
+@media (min-width: 992px) {
+ .cardsbis {
+ 	grid-template-columns: 1fr 1fr;
+ }
+}
+
+
+@media (min-width: 1200px) {
+ .cardsbis {
+ 	grid-template-columns: 1fr 1fr;
+ }
+}
